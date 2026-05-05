@@ -5,6 +5,9 @@ A document of resources used in the making of this project.
 **EnemyCollide.cs**
 <br> Learned about the function OnTriggerEvent2D from Claude.
 
+**Combat Log Logic**
+<br> Got logic for Combat Log implementation from Claude.
+
 ## Youtube-Sourced Code
 
 **PlayerControler.cs**
